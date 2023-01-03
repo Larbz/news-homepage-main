@@ -1,6 +1,6 @@
 # Frontend Mentor News Homepage
 
-This is a solution to the [News homepage](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
+This is a solution to the [News homepage](https://www.frontendmentor.io/solutions/news-homepage-3P4CaK-I1c).
 
 ### Challenge
 
@@ -10,6 +10,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ## Process
+
+### Links
+
+- Live Site URL: [Live Site Solution](https://larbz.github.io/news-homepage-main/)
 
 ### Built with
 
